@@ -1,8 +1,8 @@
-##Simon Game 🎮
+Simon Game 🎮
 
 A memory-based Simon Game built as part of Angela Yu's Web Development Bootcamp.
 
-##Features
+Features
 Random color sequences
 Sound effects
 Button animations
